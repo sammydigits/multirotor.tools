@@ -1,37 +1,24 @@
-## Welcome to GitHub Pages
+## Welcome to Multirotor Tools
 
-You can use the [editor on GitHub](https://github.com/sammydigits/multirotor.tools/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+This is a directory of online resources, websites and apps, related to drones and FPV. You can contribute to this directory via Github.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Builds/Parts
 
-### Markdown
+[RotorRatings.com](https://RotorRatings.com)
+Ratings and reviews for drones parts, create build lists, find prices and rate stores based on customer service, value for money and shipping.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+[RotorBuilds.com](https://RotorBuilds.com)
+Show off your build.
 
-```markdown
-Syntax highlighted code block
+### Podcasts
 
-# Header 1
-## Header 2
-### Header 3
+Sites here
 
-- Bulleted
-- List
+### Apps
 
-1. Numbered
-2. List
+Sites here
 
-**Bold** and _Italic_ and `Code` text
+### Test Results
 
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/sammydigits/multirotor.tools/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+[MiniQuadTestBench.com](http://www.MiniQuadTestBench.com)
+Equipment test results.
