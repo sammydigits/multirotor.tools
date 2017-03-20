@@ -1,6 +1,6 @@
-## Welcome to Multirotor Tools
+## Multirotor Tools
 
-This is a directory of online resources, websites and apps, related to drones and FPV.
+A directory of resources/websites/apps/softwate related to drones and FPV.
 
 ### How to Contribute
 
