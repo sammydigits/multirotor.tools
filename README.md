@@ -10,7 +10,3 @@ The website is a single HTML file, found at `index.html`, edit it and create a P
 - Discuss ideas in issues.
 - Spread the word.
 - Reach out to me directly at sam.thompson@gmail.com for help.
-
-## Licence
-
-[![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
