@@ -2,7 +2,7 @@
 
 A directory of resources/websites/apps/softwate related to drones and FPV.
 
-## 👬 Contribution
+## Contribution
 
 The website is a single HTML file, found at `index.html`, edit it and create a PR.
 
